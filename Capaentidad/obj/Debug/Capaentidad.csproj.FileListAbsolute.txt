@@ -1,0 +1,6 @@
+C:\Users\503\source\repos\Capaentidad\bin\Debug\Capaentidad.dll
+C:\Users\503\source\repos\Capaentidad\bin\Debug\Capaentidad.pdb
+C:\Users\503\source\repos\Capaentidad\obj\Debug\Capaentidad.csproj.AssemblyReference.cache
+C:\Users\503\source\repos\Capaentidad\obj\Debug\Capaentidad.csproj.CoreCompileInputs.cache
+C:\Users\503\source\repos\Capaentidad\obj\Debug\Capaentidad.dll
+C:\Users\503\source\repos\Capaentidad\obj\Debug\Capaentidad.pdb
